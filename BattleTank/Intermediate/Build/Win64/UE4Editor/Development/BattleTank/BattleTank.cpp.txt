@@ -1,0 +1,2 @@
+C:\Users\alana\Desktop\Unreal C++ Udemy Course\BattleTank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Definitions.BattleTank.h
+C:\Users\alana\Desktop\Unreal C++ Udemy Course\BattleTank\BattleTank\Source\BattleTank\BattleTank.h
